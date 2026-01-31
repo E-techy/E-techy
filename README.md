@@ -37,24 +37,30 @@ current_learning:
 
 ## 📊 GitHub Analytics
 
-> ⚠️ *If widgets don’t load instantly, GitHub’s image proxy or rate-limits may be the cause.  
-> The versions below are **more stable**, cache-friendly, and widely supported.*
-
-### 🔹 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-techy&show_icons=true)
-
-### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-techy)
-
-### 🔹 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=E-techy)
+> ⚠️ *Some GitHub stat providers may be temporarily unavailable due to rate limits.  
+> The widgets below use **alternative, stable sources** that load reliably.*
 
 ---
 
-### 🧩 Backup Static Badges (Always Load)
-![Repo Count](https://img.shields.io/github/repo-count/E-techy?style=for-the-badge)
+### 🔹 GitHub Overview
+![GitHub Metrics](https://metrics.lecoq.io/E-techy?template=classic&isocalendar=1&languages=1&activity=1&followup=1&config.timezone=Asia%2FKolkata)
+
+---
+
+### 🔹 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=E-techy&theme=github-dark)
+
+---
+
+### 🔹 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=E-techy&theme=darkhub&no-frame=true&column=6)
+
+---
+
+### 🧩 Quick Stats (Always Online)
 ![Followers](https://img.shields.io/github/followers/E-techy?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/E-techy?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-count/E-techy?style=for-the-badge)
 
 ---
 
