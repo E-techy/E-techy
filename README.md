@@ -41,13 +41,13 @@ current_learning:
 > The versions below are **more stable**, cache-friendly, and widely supported.*
 
 ### 🔹 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-techy&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-techy&show_icons=true)
 
 ### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-techy&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-techy)
 
 ### 🔹 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=E-techy&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=E-techy)
 
 ---
 
