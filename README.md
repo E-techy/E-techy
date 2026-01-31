@@ -37,28 +37,24 @@ current_learning:
 
 ## 📊 GitHub Analytics
 
-> ⚠️ *If widgets don’t load instantly, GitHub’s image proxy or rate-limits may be the cause. The versions below are **more stable**, cache-friendly, and widely supported.*
+> ⚠️ *If widgets don’t load instantly, GitHub’s image proxy or rate-limits may be the cause.  
+> The versions below are **more stable**, cache-friendly, and widely supported.*
 
-<p align="center">
-  <img height="170" alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=E-techy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+### 🔹 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-techy&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400)
 
-<img height="170" alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-techy&layout=compact&langs_count=8&theme=tokyonight" />
+### 🔹 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-techy&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400)
 
-</p>
+### 🔹 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=E-techy&theme=tokyonight)
 
-<p align="center">
-  <img alt="GitHub Streak" 
-       src="https://streak-stats.demolab.com?user=E-techy&theme=tokyonight" />
-</p>
+---
 
-<!-- Backup static badge (loads even if charts fail) -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-dynamic-blue" />
-  <img src="https://img.shields.io/badge/Commits-Active-success" />
-</p>
+### 🧩 Backup Static Badges (Always Load)
+![Repo Count](https://img.shields.io/github/repo-count/E-techy?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/E-techy?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/E-techy?style=for-the-badge)
 
 ---
 
