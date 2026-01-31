@@ -37,31 +37,9 @@ current_learning:
 
 ## 📊 GitHub Analytics
 
-> ⚠️ *Some GitHub stat providers may be temporarily unavailable due to rate limits.  
-> The widgets below use **alternative, stable sources** that load reliably.*
-
----
-
-### 🔹 GitHub Overview
-![GitHub Metrics](https://metrics.lecoq.io/E-techy?template=classic&isocalendar=1&languages=1&activity=1&followup=1&config.timezone=Asia%2FKolkata)
-
----
-
-### 🔹 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=E-techy&theme=github-dark)
-
----
-
-### 🔹 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=E-techy&theme=darkhub&no-frame=true&column=6)
-
----
-
 ### 🧩 Quick Stats (Always Online)
 ![Followers](https://img.shields.io/github/followers/E-techy?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/E-techy?style=for-the-badge)
-![Repos](https://img.shields.io/github/repo-count/E-techy?style=for-the-badge)
-
 ---
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
